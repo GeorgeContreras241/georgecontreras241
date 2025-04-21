@@ -51,12 +51,12 @@
 
 ### ⚡ Proyectos Destacados
 
-- 🔐 [1Save Password](https://github.com/georgecontreras241/1save-password) – Gestor de contraseñas en React y Tailwind.  
-- 🛒 [Tienda React](https://github.com/georgecontreras241/tienda-react) – Proyecto de ecommerce usando FakeStoreAPI.  
+- 🔐 [1Save Password](https://github.com/georgecontreras241/1save-password) – Gestor de contraseñas en React, Tailwind, Express, Mongo DB, Zustand, JWT, bcrypt y Google Auth .  
+- 🛒 [Tienda React](https://github.com/georgecontreras241/tienda-react) – Proyecto de ecommerce usando FakeStoreAPI en Next js y Zustand.  
 - 🎮 [Photon Prefab Manager](https://github.com/georgecontreras241/photon-prefab-manager) – Sistema para manejar prefabs en Photon PUN.  
-- 💼 [Landing Metálicas J y N](https://github.com/georgecontreras241/landing-metalicas) – Página para taller de soldadura.  
-- 📝 [Gestor de Tareas](https://github.com/georgecontreras241/gestor-de-tareas) – Aplicación de gestión de tareas personales.  
-- 🌐 [Portafolio](https://github.com/georgecontreras241/portfolio-v2) – Mi sitio web personal y showcase de proyectos.  
+- 💼 [Landing Metálicas J y N](https://github.com/georgecontreras241/landing-metalicas) – Página para taller de soldadura en React.  
+- 📝 [Gestor de Tareas](https://github.com/georgecontreras241/gestor-de-tareas) – Aplicación de gestión de tareas personales en React.  
+- 🌐 [Portafolio](https://github.com/georgecontreras241/portfolio-v2) – Mi sitio web personal y showcase de proyectos en Next js.  
 
 ---
 
