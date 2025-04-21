@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="./A_digital_graphic_banner_showcases_George_Contrera.png" alt="George Contreras - Frontend Developer">
+  <img src="./welcome.png" alt="George Contreras - Frontend Developer">
 </p>
 
 <h1 align="center">👋 Hola, soy George Contreras</h1>
