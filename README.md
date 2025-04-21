@@ -1,5 +1,5 @@
 <!-- Banner -->
-<p align="center">
+<p align="center" width:"300px">
   <img src="./welcome.png" alt="George Contreras - Frontend Developer">
 </p>
 
